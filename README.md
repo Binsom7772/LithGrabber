@@ -1,2 +1,2 @@
-# LithGrabber
-LithGrabber Is An Powerful Discord And Browser Stealer
+About Lith Grabber
+- Lith Grabber Is The New Best Session Stealer That Steals Every info About Computer (Even Webcam)
